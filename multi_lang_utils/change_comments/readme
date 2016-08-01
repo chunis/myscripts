@@ -1,0 +1,14 @@
+Note
+
+These scripts can be used to format kernel/driver C source code files to
+make them follow Linux code style.
+They can process all files under a single directory, follow below steps:
+1. run:
+	$ ./change_comments.sh <dirname with C source code>
+2. Occasionally, the produed C files include embedded C comments, such as:
+	/* printf("AA"); /* def */ */
+  which is produced because of lines like these:
+	//printf("AA"); /* def */
+  So we'll need the second script to find out all occurrences of these
+  nasty lines by run:
+  	$ ./count.sh <dirname with C source code>
