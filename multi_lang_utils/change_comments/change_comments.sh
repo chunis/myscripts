@@ -1,7 +1,6 @@
 #!/bin/sh
 
 # Change codes to follow Linux code style.
-# Any questions please contact dengch0917@thundersoft.com
 
 if [ "$1" = "" ]; then
 	echo "Usage: $0 <dirname with C source code>"
