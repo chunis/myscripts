@@ -4,15 +4,53 @@ they're very useful, so I just put them here as a kind of backup.
 
 Below are simple descriptions for the scripts, with their original urls:
 
-URL:   https://greasyfork.org/en/scripts/13494-配合网盘密码自动提取，融合链接与提取码
+Name:  13494.user.js
+From:  https://greasyfork.org/en/scripts/13494-配合网盘密码自动提取，融合链接与提取码
 About: 自动处理网盘链接及其提取码变成支持自动填充密码的方式的链接(百度云、360pan等).
 
-URL:   https://greasyfork.org/zh-CN/scripts/1002-网盘自动填写提取密码
+Name:  1002.user.js
+From:  https://greasyfork.org/zh-CN/scripts/1002-网盘自动填写提取密码
 About: 自动填写提取密码，失败不重试。
 
-URL: 
-About: 
+Name:  Kill Baidu AD.user.js
+From:  https://greasyfork.org/en/scripts/24192-kill-baidu-ad
+From:  https://github.com/hoothin/UserScripts/raw/master/Kill%20Baidu%20AD/Kill%20Baidu%20AD.user.js
+About: As Name says
 
-URL: 
-About: 
--- 
+Name:  百度网盘助手•改
+From:  https://greasyfork.org/zh-CN/scripts/17083
+About: 显示百度网盘文件的直接链接,突破大文件需要使用电脑管家的限制
+
+Name:  百度网盘自动登录
+From:  https://greasyfork.org/zh-CN/scripts/19807
+About: 在百度云盘的界面里自动填写密码
+
+Name:  MyDouban_book
+From:  https://greasyfork.org/zh-CN/scripts/14640-mydouban-book
+About:
+
+Name:  豆瓣电影C+|MyDoubanMovieHelper|豆瓣|豆瓣电影|douban.movie.com
+From:  https://greasyfork.org/zh-CN/scripts/14636
+About: 在 movie.douban.com 网站下直接显示下载链接，可通过多个站点获取。
+
+Name:  MyTools
+From:  https://greasyfork.org/zh-CN/scripts/10453
+About: 整合常用功能，减少插件数量：DirectGoogle、百度音乐盒去广告、豆瓣补全下载链接、
+	网页右键解锁、购物党比价工具、解决百度云大文件下载限制、知乎界面美化、
+	知乎真实链接地址重定向，默认快捷键：ALT + M
+
+Name:  跳过网站等待、验证码及登录
+From:  https://greasyfork.org/zh-CN/scripts/2600
+About: 移除各类网站验证码、登录、倒计时及更多!
+
+Name:  百度网盘助手
+From:  https://greasyfork.org/zh-CN/scripts/986
+About: 显示百度网盘文件的直接链接,突破大文件需要使用电脑管家的限制
+
+Name:  True URL downloads
+From:  https://greasyfork.org/en/scripts/7362-true-url-downloads
+About: Decryption and Display the real URL of the download links.(of xunlei,kuaiche,xuanfeng;thunder,flashget,qqdl)
+
+Name:  琉神转
+From:  https://sleazyfork.org/zh-CN/scripts/23316
+
