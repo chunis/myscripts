@@ -1,3 +1,5 @@
+About
+
 
 All greasemonkey scripts in this directory are created by others, I think
 they're very useful, so I just put them here as a kind of backup.
@@ -12,10 +14,16 @@ Name:  1002.user.js
 From:  https://greasyfork.org/zh-CN/scripts/1002-网盘自动填写提取密码
 About: 自动填写提取密码，失败不重试。
 
+Name:  2248.user.js
+From:  https://greasyfork.org/zh-CN/scripts/2248
+About: To remove the Ads on baidu play box
+
 Name:  Kill Baidu AD.user.js
 From:  https://greasyfork.org/en/scripts/24192-kill-baidu-ad
 From:  https://github.com/hoothin/UserScripts/raw/master/Kill%20Baidu%20AD/Kill%20Baidu%20AD.user.js
 About: As Name says
+
+----- ----- ----- -----
 
 Name:  百度网盘助手•改
 From:  https://greasyfork.org/zh-CN/scripts/17083
