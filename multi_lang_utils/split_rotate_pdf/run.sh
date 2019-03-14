@@ -16,6 +16,7 @@
 # Need to install these tools first:
 #   $ sudo pip install pypdf2
 #   $ sudo apt install qpdf
+#   And tool 'k2pdfopt' comes from: http://willus.com/k2pdfopt/
 #
 # Chunis Deng (chunchengfh@gmail.com)
 # 2019.03.15
