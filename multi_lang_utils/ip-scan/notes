@@ -1,0 +1,10 @@
+Usage
+
+
+out.py: from ips/macs/hosts to output html file with table, be used by other scripts
+
+show_ip_html.sh: can output html file directly; needs out.py
+show_ip_html.py: can output html file directly; needs out.py
+
+show_ips.py: can run directly (output simple txt format), or be imported/used by srv.py
+srv.py: bottle server file, if run, then can be accessed from browser: http://<ip>:<port>
