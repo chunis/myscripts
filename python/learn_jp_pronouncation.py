@@ -72,7 +72,8 @@ snd_list = shuffle_tuple_as_list(snd_set)
 tmp_set = set()
 while snd_list:
     print "Let's begin..."
-    for x in snd_list:
+    for i, x in enumerate(snd_list):
+        print "(%d/%d): " %(i+1, len(snd_list)),
         check_a_sound(x, option, tmp_set)
 
     # Finish one loop. Show what's left
