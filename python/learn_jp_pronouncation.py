@@ -17,6 +17,8 @@
 
 import sys
 import random
+import time
+
 
 allsounds = [
     'あ', 'ア', 'a ', 'い', 'イ', 'i  ', 'う', 'ウ', 'u  ', 'え', 'エ', 'e ', 'お', 'オ', 'o ',
@@ -69,6 +71,9 @@ while allsounds:
     allsounds = allsounds[3:]
 snd_list = shuffle_tuple_as_list(snd_set)
 
+start = time.ctime()
+print "\nStart at: %s\n" %start
+
 tmp_set = set()
 while snd_list:
     print "Let's begin..."
@@ -90,3 +95,5 @@ while snd_list:
     snd_list = shuffle_tuple_as_list(tmp_set)
     tmp_set = set()
 
+print "Start  at:", start
+print "Finish at:", time.ctime(), "\n"
