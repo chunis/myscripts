@@ -12,7 +12,7 @@ tmppy=${tmpf}x.py
 echo "$find_cmd" | while read f; do cat $f; done \
 	| sed 's/[ :<>,{}\.\*\(\);"]/ /g' \
 	| sed "s#[/'-=\!&]# #g" \
-	| sed 's/[][]/ /g' > $tmpf
+	| sed 's/[]|[]/ /g' > $tmpf
 
 cat > $tmppy <<HERE
 #!/usr/bin/python
